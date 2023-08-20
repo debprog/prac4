@@ -12,6 +12,7 @@ let y=document.getElementById("b");
 let z=document.getElementById("c");
   z.addEventListener("click",function(e){
   alert("you");
+    
 })
 
 
